@@ -11,7 +11,7 @@ spec:
   source: 
     path: bubble-animation/application-mainfest
     repoURL: https://github.com/muselec/mus-argocd
-    targetRevision: main
+    targetRevision: dev
   syncPolicy: 
     automated:
       prune: true
