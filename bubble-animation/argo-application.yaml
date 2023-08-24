@@ -7,7 +7,7 @@ spec:
   destination:
     namespace: bubble-animation
     server: https://kubernetes.default.svc 
-  project: default 
+  project: mus 
   source: 
     path: bubble-animation/application-mainfest
     repoURL: https://github.com/muselec/mus-argocd
